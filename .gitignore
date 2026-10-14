@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.env
+.session-secret
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+.source-ledger/
+.DS_Store
+.coverage
